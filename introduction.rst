@@ -1,11 +1,13 @@
+===============
 Introduction
 ===============
 
-
+----------------
 About SASTBX
 ----------------
-The Small Angle Scattering ToolBox (SASTBX) is an open-source software for biomolecular small-angle scattering.
+The Small Angle Scattering ToolBox (SASTBX) is an open-source software for biomolecular small-angle scattering. 
 
+----------------------------
 What can SASTBX do for you
 ----------------------------
 Analysis SAS data.

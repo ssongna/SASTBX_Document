@@ -1,3 +1,4 @@
+===============
 Download
 ===============
 
@@ -12,8 +13,10 @@ There are four versions for different user requirement.
 * **source code** 
  	The source code of SASTBX and GUI for the users to make development in both SASTBX and GUI
 
+You can download all these four version in the following website:
 
-You can download all these four version in 
-http://liulab.csrc.ac.cn/dokuwiki/doku.php?id=sastbx
+* The external CSRC network access: http://liulab.csrc.ac.cn/dokuwiki/doku.php?id=sastbx
+* The internal CSRC network access: http://172.16.16.17/dokuwiki/doku.php?id=sastbx
+
 
 

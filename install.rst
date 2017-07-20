@@ -1,3 +1,4 @@
+===============
 Installation
 ===============
 * **Complete GUI version**
@@ -9,7 +10,7 @@ Installation
 * **source code**
  	If you want to manually compile the command line version software form source code. The installation is required. (For developers who add the new command or change the C++ code. The changes in python script can take effect immediately when executing.)
 
-
+--------------------------------------------
 Manually compile from source code on Ubuntu
 --------------------------------------------
 *Attention:
@@ -71,8 +72,29 @@ soure code can be downloaded on http://liulab.csrc.ac.cn/dokuwiki/doku.php?id=sa
  
  in the command line, if you can enter the python process, the installation is success.
 
+* **step4 add the environment variable**
 
-Manually building from sources under MacOS
+ Add one line in your ``.bashrc``. 
+
+ Open the ``.bashrc`` file ::
+
+	vim ~/.bashrc
+
+ Then add the following command it. ::
+
+	source sastbx_path/build/setpaths_all.sh
+
+ change the ``sastbx_path`` to the real path in you machine.
+
+ To make it effective, type: ::
+	
+	source ~/.bashrc
+
+ in the command line.
+
+
+--------------------------------------------
+Manually building from sources on MacOS
 --------------------------------------------
 *Attention:
 For developers who add the new command or change the C++ code, manually compiling is necessary.
@@ -132,7 +154,28 @@ soure code can be downloaded on http://liulab.csrc.ac.cn/dokuwiki/doku.php?id=sa
  
  in the command line, if you can enter the python process, the installation is success.
 
+* **step4 add the environment variable**
 
+ Add one line in your ``.bash_profile``. 
+
+ Open the ``.bash_profile`` file ::
+
+	vim ~/.bash_profile
+
+ Then add the following command it. ::
+
+	source sastbx_path/build/setpaths_all.sh
+
+ change the ``sastbx_path`` to the real path in you machine.
+
+ To make it effective, type: ::
+	
+	source ~/.bash_profile
+
+ in the command line.
+
+
+ 
 
 
 

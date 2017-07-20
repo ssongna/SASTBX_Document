@@ -54,8 +54,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'SASTBX'
-copyright = u'2017, songna'
-author = u'songna @http://liulab.csrc.ac.cn'
+copyright = u'2017, songna @http://liulab.csrc.ac.cn'
+author = u'songna'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

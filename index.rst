@@ -22,6 +22,7 @@ Date: July 18, 2017
    download 
    install 
    web 
+   usage_GUI 
    usage_command
    development_document 
    reference
